@@ -33,7 +33,6 @@ Sumar intermedios y multiplicar por 2
 Multiplicar todo por h/2
 Retornar resultado
 
----
 
 ## Ejemplo y Caso de Prueba
 

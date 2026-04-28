@@ -37,7 +37,7 @@ Recorrer los puntos intermedios
 Aplicar la fórmula final
 Finalmente obtenemos el resultado 
 
----
+
 
 ## Ejemplo y Caso de Prueba
 

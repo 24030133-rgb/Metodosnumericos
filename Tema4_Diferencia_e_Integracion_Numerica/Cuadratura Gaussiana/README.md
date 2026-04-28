@@ -40,7 +40,6 @@ Aplicar la fórmula de Gauss
 Obtener el resultado 
 
 
----
 
 ## Ejemplo y Caso de Prueba
 

@@ -1,5 +1,5 @@
 # 5 PUNTOS - CASO DE ERROR
-# f(x) = ln(x-2) en x=2, h=0.5 → puntos inválidos
+
 import numpy as np
 
 def cinco_puntos_seguro(f, x, h):
